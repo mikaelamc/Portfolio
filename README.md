@@ -1,3 +1,3 @@
-# Updated-Portfolio
+# Portfolio
 
  Live Site: https://mikaelamc.github.io/Updated-Portfolio/
